@@ -31,6 +31,8 @@ Figma
 # CODE:
 
 ```
+home page
+
 <div style="width: 360px; height: 800px; position: relative; background: white">
   <img style="width: 2560px; height: 1343px; left: -1175px; top: -375px; position: absolute" src="https://via.placeholder.com/2560x1343" />
   <div style="width: 117px; height: 40px; left: 126px; top: 267px; position: absolute; background: #CFAAFF; border: 1px black solid"></div>
@@ -43,6 +45,8 @@ Figma
 ```
 
 ```
+page 2
+
 <div style="width: 348px; height: 800px; position: relative; background: white">
   <img style="width: 348px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/348x800" />
   <div style="width: 120px; height: 43px; left: 51px; top: 180px; position: absolute; background: #E9B4B4; border: 1px #131212 solid"></div>
@@ -53,6 +57,8 @@ Figma
 ```
 
 ```
+page 3
+
 <div style="width: 360px; height: 800px; position: relative; background: white">
   <img style="width: 360px; height: 861px; left: 0px; top: -15px; position: absolute" src="https://via.placeholder.com/360x861" />
   <div style="width: 300px; height: 124px; left: 23px; top: 39px; position: absolute; color: black; font-size: 25px; font-family: Inknut Antiqua; font-weight: 400; word-wrap: break-word">Event Registeration Form :</div>
@@ -78,6 +84,8 @@ Figma
 ```
 
 ```
+page 4
+
 <div style="width: 360px; height: 800px; position: relative; background: white">
   <img style="width: 800px; height: 1423px; left: -264px; top: -351px; position: absolute" src="https://via.placeholder.com/800x1423" />
   <div style="width: 195px; height: 172px; left: 82px; top: 140px; position: absolute; color: black; font-size: 50px; font-family: Ingrid Darling; font-weight: 400; word-wrap: break-word">Thank<br/>        You!!!</div>
@@ -86,9 +94,6 @@ Figma
 </div>
 ```
 # OUTPUT:
-![alt text](Output1.png)
-![alt text](Output1.png)
-![alt text](out3.png)
-![alt text](out4.png)
+![alt text](<Screenshot 2024-12-13 204151.png>)
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
